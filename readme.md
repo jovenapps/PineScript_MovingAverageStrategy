@@ -1,4 +1,5 @@
 ##MOVING AVERAGE STRATEGY##
+
 by: Carl Joven (jovenapps)
 
 
